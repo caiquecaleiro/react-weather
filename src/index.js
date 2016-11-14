@@ -1,11 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-const App = () => {
-  return (
-    <h1>Weather app!</h1>
-  );
-};
+import App from './components/App';
 
 ReactDOM.render(
   <App />,
