@@ -1,7 +1,11 @@
 # React Weather
 A simple Weather App using React + Redux.
 
-The user can search for a city and see a five-day forecast.
+The user can search for a city and see a five-day forecast. 
+
+A GoogleMaps component will show the location of the city and 
+there are three charts showing the average temperature, pressure 
+and humidity of the next five days.
 
 ![React Weather'](https://raw.githubusercontent.com/caiquecaleiro/react-weather/master/img/github-app-preview.png)
 
