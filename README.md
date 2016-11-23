@@ -7,7 +7,7 @@ A GoogleMaps component will show the location of the city and
 there are three charts showing the average temperature, pressure 
 and humidity of the next five days.
 
-![React Weather'](https://raw.githubusercontent.com/caiquecaleiro/react-weather/master/img/github-app-preview.png)
+![React Weather'](https://raw.githubusercontent.com/caiquecaleiro/react-weather/master/img/github-app-preview.jpg)
 
 ## Installation and usage
 
